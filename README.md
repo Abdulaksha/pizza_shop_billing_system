@@ -3,6 +3,7 @@ PIZZA SHOP BILLING SYSTEM
 OBJECTIVE:
 
 •	Produce a bill for buying pizza's in the pizza shop.
+
 •	Stores the bill to the logined user.
 
 CATEGORY:
