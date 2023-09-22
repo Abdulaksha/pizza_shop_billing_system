@@ -1,15 +1,18 @@
 ##PIZZA SHOP BILLING SYSTEM
 
 ##OBJECTIVE:
+
 Produce a bill for buying pizza's in the pizza shop.
 Stores the bill to the logined user.
 
 ##CATEGORY:
+
 There are two types of pizza's that are 1.VEG 2.NONVEG
 Each types of pizza has three types of stuffed flavors,size,crusted&toppings
 Each types of flavours & size has different prizes.
 
 ##INSTRUCTIONS:
+
 First there is a login page & create a username & password for new login,
 if you enter a wrong username or password there will be a messagebox,
 that will showed this "INVALID USERNAME OR PASSWORD".
@@ -20,6 +23,7 @@ Then, choose your pizza type,stuffed type,size type,crusted type,toppings type&
 enter the quality you want and then check the bill and items that you bought.
 
 ##CLASSES USED:
+
 login Class: Reads the username and password from the created login.
 
 product Class: products are the products and types/flavour that readed from the
@@ -30,6 +34,7 @@ userdetails Class: to save the bill to logined user .
 ##PROPERTIES USED IN CLASSES:
 
 LOGIN CLASS:
+
 username//stores the username and create a files for the user 
 and save the bills to the logined user's file.
 password//stores the username and password
