@@ -23,7 +23,7 @@ Because, there are four systems for billing  in a mall so,
 Every workers was analysed and getting bonused for who was putted many number of bills.
 After the process of login, the billing page was enabled.
 Then, choose your pizza type,stuffed type,size type,crusted type,toppings type&
-enter the quality you want and then check the bill and items that you bought.
+enter the quantity you want and then check the bill and items that you bought.
 
 CLASSES USED:
 
@@ -66,5 +66,5 @@ PRODUCT CLASS:
 
 USER CLASS:
 
-•	BILL//To stores the bill that you bought.
+•	BILL//To stores the bill items that you bought.
 
