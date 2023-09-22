@@ -46,6 +46,7 @@ LOGIN CLASS:
 
 •	username//stores the username and create a files for the user 
                and save the bills to the logined user's file.
+
 •	password//stores the username and password
 
 PRODUCT CLASS:
